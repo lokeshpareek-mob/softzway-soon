@@ -23,3 +23,12 @@ ul#timer li p {
         margin-top: 10px;
 	font-size: 13px;
 }
+.text-primary, h4, h3 {
+  color: #6db045 !important;
+}
+.icon-md, h3 {
+  color: #ffa707 !important;
+}
+body, html {
+  color: #6db045;
+}
